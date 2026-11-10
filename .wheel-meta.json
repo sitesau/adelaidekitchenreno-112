@@ -1,0 +1,22 @@
+{
+  "wheel_id": 862,
+  "structure": "umbrella",
+  "slug": "adelaidekitchenreno-112",
+  "project": "kitchen-renovations-adelaide-budget-tips-e57437ccb2020ad14dd25f",
+  "parent_t1_ref": "adelaidekitchenreno-156",
+  "node_role": "feeder",
+  "money_target": "adelaidekitchenreno.com.au",
+  "primary_kw": "kitchen renovations adelaide budget tips",
+  "intended_url": "http://kitchen-renovations-adelaide-budget-tips-e57437ccb2020ad14dd25f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "4639550acdaf3bae",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/adelaidekitchenreno-156/",
+      "anchor": "more on kitchen renovations adelaide faq",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
